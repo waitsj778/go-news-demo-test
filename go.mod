@@ -1,4 +1,4 @@
-module github.com/freshman-tech/news-demo-starter-files
+module github.com/waitsj778/go-news-demo-test
 
 go 1.16
 
